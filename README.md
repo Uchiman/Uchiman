@@ -6,15 +6,6 @@
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.Facebook.com/usmankhabilah/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=lightblue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/uchiman_kun/)
   
-👨‍💻 20 Years old Developer
-
-👨‍🎓 Studying Computer Science here in Indonesia
-
-🚧 **Current Project:** [Kurikulum-Backend](https://github.com/Uchiman/Kurikulum_Backend)
-
-⭐️ From [Uchiman](https://github.com/Uchiman)
-
-
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
