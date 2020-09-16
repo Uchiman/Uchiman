@@ -1,19 +1,17 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucafluri&show_icons=true">
 
-<!--
-**Uchiman/Uchiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Uchiman :biohazzard:
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/uchiman_kun/)
+  
+  
+👨‍💻 20 Years old Developer  
+👨‍🎓 Studying Computer Science here in Indonesia 
+🚧 **Current Project:** [Price Tracker](https://github.com/Uchiman/Kurikulum_Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Uchiman](https://github.com/Uchiman)
+
+
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
