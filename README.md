@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/uchiman_kun/)
 [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/usmankhabilah)
-  
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.Facebook.com/usmankhabilah/)  
   
 👨‍💻 20 Years old Developer
 
