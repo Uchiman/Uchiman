@@ -1,13 +1,14 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Uchiman&show_icons=true">
 
-### Hi there I'm Uchiman :biohazzard:
+### Hi there I'm Uchiman 
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/uchiman_kun/)
   
   
 👨‍💻 20 Years old Developer  
 👨‍🎓 Studying Computer Science here in Indonesia 
-🚧 **Current Project:** [Price Tracker](https://github.com/Uchiman/Kurikulum_Backend)
+🚧 **Current Project:** 
+[Price Tracker](https://github.com/Uchiman/Kurikulum_Backend)
 
 ⭐️ From [Uchiman](https://github.com/Uchiman)
 
