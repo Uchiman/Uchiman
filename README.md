@@ -10,7 +10,7 @@
   **📫 Reach me at:**<br>
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uchiman_kun)](https://twitter.com/uchiman_kun)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/uchiman_kun/)](https://www.linkedin.com/in/uchiman_kun)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/uchiman_kun/)](https://www.instagram.com/in/uchiman_kun)
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/usmankhabilah)
 
 </div>
