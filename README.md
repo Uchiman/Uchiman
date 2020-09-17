@@ -23,7 +23,7 @@
  
  **✨Visitors**<br>
  
-[![ViewCount](https://views.whatilearened.today/views/github/uchiman)](#)
+[![ViewCount](https://views.whatilearened.today/views/github/uchiman/ismlhbb.svg?cache=remove))](#)
 
 </div>
 
