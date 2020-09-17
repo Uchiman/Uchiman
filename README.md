@@ -1,11 +1,22 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Uchiman&show_icons=true">
+<div align="center">
 
-### Hi there I'm Uchiman <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=red&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/uchiman_kun/)
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.Facebook.com/usmankhabilah/)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=lightblue&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/uchiman_kun/)
+  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
   
+</div>  
+
+<div align="center">
+  
+  **📫 Reach me at:**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uchiman_kun)](https://twitter.com/uchiman_kun)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/uchiman_kun/)](https://www.linkedin.com/in/uchiman_kun)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/usmankhabilah)
+
+</div>
+
+
+
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
